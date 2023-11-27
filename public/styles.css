@@ -24,8 +24,8 @@ body {
 }
 
 #canvas1 {
-    max-height: 70vh;
-    max-width: 70vw;
+    height: 70vh;
+    width: 70vw;
     background: grey;
     margin: auto;
 }
